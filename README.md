@@ -21,9 +21,9 @@
 # 📈Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=KaustubhVaidya404)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaustubhVaidya404&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaustubhVaidya404&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=KaustubhVaidya404&count_private=true" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaustubhVaidya404&layout=compact" />
+ 
 #
 ## 🔗 Links
 
