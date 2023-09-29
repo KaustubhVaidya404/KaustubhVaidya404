@@ -28,3 +28,5 @@
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubh-vaidya-71947221b)
+
+[![An image of @kaustubhvaidya404's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kaustubhvaidya404)](https://holopin.io/@kaustubhvaidya404)
