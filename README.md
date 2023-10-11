@@ -15,7 +15,7 @@
 
 📫 Let's connect: Interested in collaborating or have questions about my projects? Reach out and let's create amazing things together!
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,dart,express,firebase,flutter,git,github,html,java,js,linux,mongodb,mysql,nodejs,postman,py,tensorflow,vim,&theme=light)](https://skillicons.dev)
+
 #
 
 # 📈Stats
