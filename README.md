@@ -1,16 +1,7 @@
 
 # Hi! I'm Kaustubh Vaidya
 
-👋 Hi there! I'm Kaustubh Vaidya, a passionate softwware developer. I love building dynamic and interactive web and mobile applications with clean, scalable code.
-
-🌱 Always learning: I explore emerging technologies, work with Flutter and Firebase and many more, and optimize performance for seamless user experiences.
-
-🚀 Collaboration: I enjoy contributing to open-source projects and collaborating with developers to solve challenges and drive innovation.
-
-🌟 Beyond coding: I find inspiration in outdoor adventures, walking with my dog, which keeps my creativity flowing.
-
-📫 Let's connect: Interested in collaborating or have questions about my projects? Reach out and let's create amazing things together!
-
+👋 Hello there! I'm a passionate computer science engineering student on a journey to turn my love for technology into innovative solutions. With a deep-rooted curiosity for coding, problem-solving, and all things tech, I'm dedicated to pushing the boundaries of what's possible. From designing efficient algorithms to crafting user-friendly interfaces, I thrive on challenges that require a blend of creativity and logic. As an aspiring engineer, I'm excited to share my projects and experiences with you through this portfolio. Let's explore the world of ones and zeros together!
 
 #
 
