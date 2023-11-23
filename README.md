@@ -16,6 +16,3 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaustubh-vaidya-71947221b)
 
-## 🔗 Views
-
-[![](https://visitcount.itsvg.in/api?id=kaustubhvaidya404&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
