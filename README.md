@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KaustubhVaidya404.KaustubhVaidya404">
+
 # Hi! I'm Kaustubh 👋
 
 ## 🚀 About Me
