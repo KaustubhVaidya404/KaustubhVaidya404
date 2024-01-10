@@ -13,5 +13,4 @@ I'm a passionate computer science engineering student on a journey to turn my lo
 [![My Skills](https://skillicons.dev/icons?i=html,css,dart,java,js,py,postman,flutter,django,nodejs,express,firebase,mongodb,tensorflow&theme=dark)](https://skillicons.dev)
  
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/kaustubh-vaidya-71947221b/))
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vaidya404/likes)
