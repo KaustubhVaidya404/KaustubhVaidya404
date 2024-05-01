@@ -8,8 +8,6 @@ I'm a passionate computer science engineering student on a journey to turn my lo
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaustubhVaidya404&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 [![KaustubhVaidya404's GitHub | Stats](https://stats.quine.sh/KaustubhVaidya404/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=KaustubhVaidya404)
-[![KaustubhVaidya404's GitHub | Topics Over Time](https://stats.quine.sh/KaustubhVaidya404/topics-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=KaustubhVaidya404)
-[![KaustubhVaidya404's GitHub | Languages Over Time](https://stats.quine.sh/KaustubhVaidya404/languages-over-time?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=KaustubhVaidya404)
 
 ## 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,dart,java,js,py,postman,flutter,django,nodejs,express,firebase,mongodb,tensorflow,git&theme=dark)](https://skillicons.dev)
