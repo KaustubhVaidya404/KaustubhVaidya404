@@ -10,5 +10,4 @@
 ## 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,dart,java,js,py,postman,flutter,django,nodejs,express,firebase,mongodb,tensorflow,git,androidstudio,mysql,react,tailwind,spring,hibernate&theme=dark)](https://skillicons.dev)
  
-## 🔗 Links
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Vaidya404/likes)
+
