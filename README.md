@@ -8,6 +8,6 @@
 [![KaustubhVaidya404's GitHub | Dependencies](https://stats.quine.sh/KaustubhVaidya404/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=KaustubhVaidya404)
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,dart,java,js,py,postman,flutter,django,nodejs,express,firebase,mongodb,tensorflow,git,androidstudio,mysql,react,tailwind,spring,hibernate&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,dart,java,js,typescript,py,postman,flutter,django,nodejs,express,firebase,mongodb,tensorflow,git,androidstudio,mysql,react,tailwind,spring,hibernate&theme=dark)](https://skillicons.dev)
  
 
